@@ -1,4 +1,4 @@
-const URL="https://validar-cpf-back-spring-boot-j.herokuapp.com//validacpf?cpf="
+const URL="https://validar-cpf-back-spring-boot-j.herokuapp.com/validacpf?cpf="
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
